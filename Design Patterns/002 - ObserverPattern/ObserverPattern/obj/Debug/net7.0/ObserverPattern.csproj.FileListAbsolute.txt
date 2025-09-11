@@ -1,0 +1,15 @@
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\bin\Debug\net7.0\ObserverPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\refint\ObserverPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\ObserverPattern\obj\Debug\net7.0\ref\ObserverPattern.dll
