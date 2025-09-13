@@ -13,3 +13,18 @@ D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source c
 D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
 D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
 D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.exe
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.deps.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.runtimeconfig.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\bin\Debug\net6.0\ObserverPattern.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.sourcelink.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\refint\ObserverPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\002 - ObserverPattern\ObserverPattern\obj\Debug\net6.0\ref\ObserverPattern.dll
