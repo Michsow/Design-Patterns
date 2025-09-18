@@ -14,12 +14,30 @@ namespace DecoratorPattern.Condiments
         this.baseBeverage = beverage;
     }
 
-    public override double cost()
-    {
-        return 0.20 + baseBeverage.cost();
-    }
+        public override double cost()
+        {
+            double extraCost = 0.20;
+            switch (Size)
+            {
+                case Size.TALL:
+                    extraCost += 0.20;
+                    break;
+                case Size.GRANDE:
+                    extraCost += 0.40;
+                    break;
+                case Size.VENDI:
+                    extraCost += 0.60;
+                    break;
+            }
 
-    public override string GetDescription()
+            if (baseBeverage != null)
+            {
+                return extraCost + baseBeverage.cost();
+            }
+            return extraCost;
+        }
+
+        public override string GetDescription()
     {
         return baseBeverage.GetDescription() + ", Ice cream ";
     }

@@ -24,11 +24,25 @@ namespace DecoratorPattern.Beverages
         }
         public override double cost()
         {
+            double extraCost = 0.50;
+            switch (Size)
+            {
+                case Size.TALL:
+                    extraCost += 0.25;
+                    break;
+                case Size.GRANDE:
+                    extraCost += 0.50;
+                    break;
+                case Size.VENDI:
+                    extraCost += 0.75;
+                    break;
+            }
+
             if (baseBeverage != null)
             {
-                return 0.50 + baseBeverage.cost();
+                return extraCost + baseBeverage.cost();
             }
-            return 0.50;
+            return extraCost;
         }
     }
 }

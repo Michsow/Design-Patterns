@@ -16,12 +16,39 @@ namespace DecoratorPattern.Condiments
 
         public override double cost()
         {
-            return 0.10 + baseBeverage.cost();
+            double extraCost = 0.10;
+            switch (Size)
+            {
+                case Size.TALL:
+                    extraCost += 0.10;
+                    break;
+                case Size.GRANDE:
+                    extraCost += 0.20;
+                    break;
+                case Size.VENDI:
+                    extraCost += 0.40;
+                    break;
+            }
+
+            if (baseBeverage != null)
+            {
+                return extraCost + baseBeverage.cost();
+            }
+            return extraCost;
         }
 
         public override string GetDescription()
         {
-            return baseBeverage.GetDescription() + ", Whip";
+            string sizeText = Size switch
+            {
+                Size.TALL => "Tall",
+                Size.GRANDE => "Grande",
+                Size.VENDI => "Vendi",
+                _ => "Standard"
+            };
+
+            return $"{baseBeverage.GetDescription()}, {sizeText} Whip";
         }
+
     }
 }

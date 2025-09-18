@@ -181,7 +181,23 @@ namespace DecoratorPattern
             irishCoffee = new Whiskey(irishCoffee);
             irishCoffee = new Whip(irishCoffee);
             PrintBeverage(irishCoffee);
+
+            Beverage mochaTall = new Espresso();
+            mochaTall = new Chocolate(mochaTall);
+            mochaTall = new Steamed_milk(mochaTall);
+            mochaTall = new Whip(mochaTall);
+            mochaTall.Size = Size.TALL;
+            PrintBeverage(mochaTall);
+
+            Beverage mochaVenti = new Espresso();
+            mochaVenti = new Chocolate(mochaVenti);
+            mochaVenti = new Steamed_milk(mochaVenti);
+            mochaVenti = new Whip(mochaVenti);
+            mochaVenti.Size = Size.VENDI; // largest size
+            PrintBeverage(mochaVenti);
         }
+
+
 
         static void PrintBeverage(Beverage beverage)
         {
