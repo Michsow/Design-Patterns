@@ -1,0 +1,45 @@
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.AssemblyReference.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+D:\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.sourcelink.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\003 - DecoratorPattern\003 - DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll
