@@ -189,6 +189,13 @@ namespace DecoratorPattern
             mochaTall.Size = Size.TALL;
             PrintBeverage(mochaTall);
 
+            Beverage mochaGrande = new Espresso();
+            mochaGrande = new Chocolate(mochaGrande);
+            mochaGrande = new Steamed_milk(mochaGrande);
+            mochaGrande = new Whip(mochaGrande);
+            mochaGrande.Size = Size.GRANDE; // bigger size
+            PrintBeverage(mochaGrande);
+
             Beverage mochaVenti = new Espresso();
             mochaVenti = new Chocolate(mochaVenti);
             mochaVenti = new Steamed_milk(mochaVenti);
