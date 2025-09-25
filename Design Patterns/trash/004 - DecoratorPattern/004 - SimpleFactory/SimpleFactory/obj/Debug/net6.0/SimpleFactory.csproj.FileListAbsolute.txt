@@ -1,0 +1,15 @@
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.exe
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.deps.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.runtimeconfig.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\bin\Debug\net6.0\SimpleFactory.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfoInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.AssemblyInfo.cs
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.csproj.CoreCompileInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.sourcelink.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\refint\SimpleFactory.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\SimpleFactory.genruntimeconfig.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\trash\004 - DecoratorPattern\004 - SimpleFactory\SimpleFactory\obj\Debug\net6.0\ref\SimpleFactory.dll
