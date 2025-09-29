@@ -8,7 +8,7 @@ namespace DecoratorPattern.Factories
     {
         public abstract Beverage CreateBeverage();
 
-        public static Beverage CreateBeverageByName(string name)
+        public static Beverage CreateBeverageByName(string name, Size size)
         {
             return name switch
             {

@@ -50,10 +50,9 @@ namespace DecoratorPattern
                 {
                     try
                     {
-                        Beverage beverage = BeverageFactory.CreateBeverageByName(name);
-                        beverage.Size = size;
+                        Beverage beverage = BeverageFactory.CreateBeverageByName(name, size);
                         PrintBeverage(name, beverage);
-                        // printbeverage naar bevaragefactory ; Size eerder
+                        // printbeverage to bevaragefactory ; add Size to createbeveragebyname
                     }
                     catch (Exception ex)
                     {
