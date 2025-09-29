@@ -10,7 +10,7 @@ namespace DecoratorPattern.Factories
 
         public static Beverage CreateBeverageByName(string name, Size size)
         {
-            return name switch
+            var beverage = name switch
             {
                 "Espresso" => new EspressoFactory().CreateBeverage(),
                 "Doppio" => new DoppioFactory().CreateBeverage(),
@@ -43,6 +43,8 @@ namespace DecoratorPattern.Factories
                 "IrishCoffee" => new IrishCoffeeFactory().CreateBeverage(),
                 _ => throw new ArgumentException("Unknown beverage name")
             };
+            beverage.Size = size;
+            return beverage;
         }
         // 
 
