@@ -12,18 +12,18 @@ namespace DecoratorPattern.Factories
         {
             var beverage = name switch
             {
-                "Espresso" => new EspressoFactory().CreateBeverage(),
-                "Doppio" => new DoppioFactory().CreateBeverage(),
-                "Lungo" => new LungoFactory().CreateBeverage(),
-                "Macchiato" => new MacchiatoFactory().CreateBeverage(),
-                "Corretta" => new CorrettaFactory().CreateBeverage(),
-                "ConPanna" => new ConPannaFactory().CreateBeverage(),
-                "Cappuccino" => new CappuccinoFactory().CreateBeverage(),
-                "Americano" => new AmericanoFactory().CreateBeverage(),
-                "CaffeLatte" => new CaffeLatteFactory().CreateBeverage(),
-                "FlatWhite" => new FlatWhiteFactory().CreateBeverage(),
-                "Romana" => new RomanaFactory().CreateBeverage(),
-                "Morocchino" => new MorocchinoFactory().CreateBeverage(),
+                "Espresso" => new Espresso(),
+                "Doppio" => new Espresso(new Espresso()),
+                "Lungo" => new Espresso(new Water()),
+                "Macchiato" => new Espresso(new Milk_Foam()),
+                "Corretta" => new Espresso(new Liquor()),
+                "ConPanna" => new Espresso(new Whip()),
+                "Cappuccino" => new Espresso(new Steamed_milk(new Milk_Foam())),
+                "Americano" => new Espresso(new Water()),
+                "CaffeLatte" => new Espresso(new Steamed_milk(new Steamed_milk(new Milk_Foam()))),
+                "FlatWhite" => new Espresso(new Steamed_milk(new Steamed_milk())),
+                "Romana" => new Espresso(new Lemon()),
+                "Morocchino" => new Espresso(new Chocolate(new Milk_Foam())),
                 "Mocha" => new MochaFactory().CreateBeverage(),
                 "Bicerin" => new BicerinFactory().CreateBeverage(),
                 "Breve" => new BreveFactory().CreateBeverage(),
@@ -48,13 +48,10 @@ namespace DecoratorPattern.Factories
         }
         // 
 
+
         // === FACTORY CLASSES ===
 
-        public class EspressoFactory : BeverageFactory
-        {
-            public override Beverage CreateBeverage() => new Espresso();
-        }
-
+    
         public class DoppioFactory : BeverageFactory
         {
             public override Beverage CreateBeverage()
