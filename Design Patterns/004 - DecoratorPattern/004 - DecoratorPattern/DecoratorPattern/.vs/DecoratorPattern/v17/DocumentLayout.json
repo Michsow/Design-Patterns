@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\factories\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:factories\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\factories\\beverageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:factories\\beverageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\factories\\store1factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:factories\\store1factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\factories\\simplebeveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:factories\\simplebeveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +13,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\condiments\\black_chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:condiments\\black_chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\factories\\beverageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:factories\\beverageorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\factories\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:factories\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|c:\\users\\bezul\\desktop\\school\\school 4\\design-patterns\\design patterns\\004 - decoratorpattern\\004 - decoratorpattern\\decoratorpattern\\factories\\store1factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26321C9-EB12-A162-5EBC-5020CCCA9CE6}|DecoratorPattern.csproj|solutionrelative:factories\\store1factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SimpleBeverageFactory.cs",
               "DocumentMoniker": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Factories\\SimpleBeverageFactory.cs",
               "RelativeDocumentMoniker": "Factories\\SimpleBeverageFactory.cs",
               "ToolTip": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Factories\\SimpleBeverageFactory.cs",
               "RelativeToolTip": "Factories\\SimpleBeverageFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T12:53:00.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BeverageOrder.cs",
               "DocumentMoniker": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Factories\\BeverageOrder.cs",
               "RelativeDocumentMoniker": "Factories\\BeverageOrder.cs",
@@ -63,12 +63,11 @@
               "RelativeToolTip": "Factories\\BeverageOrder.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T12:18:42.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T12:18:42.791Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Store1Factory.cs",
               "DocumentMoniker": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Factories\\Store1Factory.cs",
               "RelativeDocumentMoniker": "Factories\\Store1Factory.cs",
@@ -76,60 +75,56 @@
               "RelativeToolTip": "Factories\\Store1Factory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T12:34:10.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T12:34:10.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T11:27:53.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T11:27:53.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Black_chocolate.cs",
               "DocumentMoniker": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Condiments\\Black_chocolate.cs",
               "RelativeDocumentMoniker": "Condiments\\Black_chocolate.cs",
               "ToolTip": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Condiments\\Black_chocolate.cs",
               "RelativeToolTip": "Condiments\\Black_chocolate.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:25:53.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:25:53.879Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Beverage.cs",
               "DocumentMoniker": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Beverages\\Beverage.cs",
               "RelativeDocumentMoniker": "Beverages\\Beverage.cs",
               "ToolTip": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Beverages\\Beverage.cs",
               "RelativeToolTip": "Beverages\\Beverage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T08:27:22.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BeverageFactory.cs",
               "DocumentMoniker": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Factories\\BeverageFactory.cs",
               "RelativeDocumentMoniker": "Factories\\BeverageFactory.cs",
               "ToolTip": "C:\\Users\\bezul\\Desktop\\school\\school 4\\Design-Patterns\\Design Patterns\\004 - DecoratorPattern\\004 - DecoratorPattern\\DecoratorPattern\\Factories\\BeverageFactory.cs",
               "RelativeToolTip": "Factories\\BeverageFactory.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswC4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T11:18:22.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T11:18:22.028Z"
             }
           ]
         }
