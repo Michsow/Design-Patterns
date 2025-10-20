@@ -14,24 +14,16 @@
             Tuner tuner = new Tuner(amp);
 
 
-            popcornPopper.On();
-            popcornPopper.Pop();
+            //Create the facade and inject all subsystems
+            HomeTheaterFacade homeTheater = new HomeTheaterFacade(
+                amp, tuner, dvdPlayer, cdPlayer, projector, lights, screen, popcornPopper);
 
-            lights.Dim(10);
+            //Use the simplified interface
+            Console.WriteLine("\nStarting the movie \n");
+            homeTheater.WatchMovie("Shrek☺");
 
-            screen.Down();
-
-            projector.On();
-            projector.SetInput(dvdPlayer);
-            projector.WideScreenMode();
-
-            amp.On();
-            amp.SetDvd(dvdPlayer);
-            amp.SetSurroundSound();
-            amp.SetVolume(5);
-
-            dvdPlayer.On();
-            dvdPlayer.Play("Die Hard");
+            Console.WriteLine("\nEnding the movie \n");
+            homeTheater.EndMovie();
         }
     }
 }
