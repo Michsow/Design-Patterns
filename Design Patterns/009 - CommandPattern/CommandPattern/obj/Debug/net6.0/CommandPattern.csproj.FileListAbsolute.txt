@@ -1,0 +1,59 @@
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\Uitgewerkte voorbeelden\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.sourcelink.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\bezul\Desktop\school\school 4\Design-Patterns\Design Patterns\009 - CommandPattern\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
