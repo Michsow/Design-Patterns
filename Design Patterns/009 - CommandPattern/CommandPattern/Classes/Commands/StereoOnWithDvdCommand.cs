@@ -16,7 +16,6 @@ namespace CommandPattern.Classes.Commands
         }
         public void Execute()
         {
-            stereo.On();
             stereo.SetDVD();
             stereo.SetVolume(11);
         }

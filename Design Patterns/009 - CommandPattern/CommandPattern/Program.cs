@@ -91,6 +91,7 @@ namespace CommandPattern
 
             remoteControl.OnButtonWasPushed(5);
             remoteControl.OnButtonWasPushed(5);
+            remoteControl.OnButtonWasPushed(5);
         }
     }
 }

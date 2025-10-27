@@ -4,74 +4,73 @@ using System.Collections.Generic;
 
 namespace CommandPattern.Classes.Commands
 {
-    internal class StereoCycleCommand : Command
+    internal class StereoCycleCommands : Command
     {
-        private Stereo stereo;
-        private Stack<string> modeHistory = new Stack<string>();
 
-        public StereoCycleCommand(Stereo stereo)
+        Stereo stereo;
+        string prevMode;
+        int prevVolume;
+        Stack<(string, int)> history = new Stack<(string, int)>();
+        public StereoCycleCommands(Stereo stereo)
         {
             this.stereo = stereo;
         }
-
         public void Execute()
         {
-            // Save current mode for undo
-            modeHistory.Push(GetCurrentMode());
-
-            switch (GetCurrentMode())
+            history.Push((prevMode, prevVolume));
+            if (prevMode == null)
             {
-                case "CD":
-                    stereo.SetDVD();
-                    break;
-                case "DVD":
-                    stereo.SetRadio();
-                    break;
-                case "Radio":
-                    stereo.Off();
-                    break;
-                case "Off":
-                default:
-                    stereo.On();
-                    stereo.SetCD();
-                    break;
+                stereo.On();
+                stereo.SetCD();
+                stereo.SetVolume(5);
+                prevMode = "CD";
+                prevVolume = 5;
+            }
+            else if (prevMode == "CD")
+            {
+                stereo.SetDVD();
+                prevMode = "DVD";
+            }
+            else if (prevMode == "DVD")
+            {
+                stereo.SetRadio();
+                prevMode = "Radio";
+            }
+            else if (prevMode == "Radio")
+            {
+                stereo.Off();
+                prevMode = null;
             }
         }
-
         public void Undo()
         {
-            if (modeHistory.Count > 0)
+            if (history.Count > 0)
             {
-                string lastMode = modeHistory.Pop();
-                switch (lastMode)
+                var (mode, volume) = history.Pop();
+                if (mode == null)
                 {
-                    case "CD":
-                        stereo.On();
-                        stereo.SetCD();
-                        break;
-                    case "DVD":
-                        stereo.On();
-                        stereo.SetDVD();
-                        break;
-                    case "Radio":
-                        stereo.On();
-                        stereo.SetRadio();
-                        break;
-                    case "Off":
-                        stereo.Off();
-                        break;
+                    stereo.Off();
                 }
+                else
+                {
+                    stereo.On();
+                    switch (mode)
+                    {
+                        case "CD":
+                            stereo.SetCD();
+                            break;
+                        case "DVD":
+                            stereo.SetDVD();
+                            break;
+                        case "Radio":
+                            stereo.SetRadio();
+                            break;
+                    }
+                    stereo.SetVolume(volume);
+                }
+                prevMode = mode;
+                prevVolume = volume;
             }
-        }
-
-        private string GetCurrentMode()
-        {
-            // Peek the last mode in the history if available
-            if (modeHistory.Count > 0)
-                return modeHistory.Peek();
-
-            // Default to "Off" if no history
-            return "Off";
         }
     }
 }
