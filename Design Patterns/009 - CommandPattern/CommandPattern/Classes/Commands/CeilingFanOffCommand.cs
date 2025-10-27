@@ -14,6 +14,7 @@ namespace CommandPattern.Classes.Commands
 
         public CeilingFanOffCommand(CeilingFan ceilingFan)
         {
+            this.ceilingFan = ceilingFan;
         }
 
         public void Execute()

@@ -1,10 +1,7 @@
 ﻿using CommandPattern.Classes.Commands;
 using CommandPattern.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+using System.Collections.Generic;
 
 namespace CommandPattern.Classes
 {
@@ -12,40 +9,57 @@ namespace CommandPattern.Classes
     {
         Command[] onCommands = new Command[7];
         Command[] offCommands = new Command[7];
-        Command undoCommand;
+        Stack<Command> commandHistory = new Stack<Command>(); // store history of commands
+        //stack is array that can only add or remove from the top (when i will be asked about it i will 100% forget how it works)
         public RemoteControl()
         {
             Command noCommand = new NoCommand();
             for (int i = 0; i < onCommands.Length; i++)
             {
-                onCommands[i] = new NoCommand();
-                offCommands[i] = new NoCommand();
+                onCommands[i] = noCommand;
+                offCommands[i] = noCommand;
             }
-            undoCommand = noCommand;
         }
 
-        // This method must set the On and Off command to the slot provided
         public void SetCommand(int slot, Command onCommand, Command offCommand)
         {
+            onCommands[slot] = onCommand;
+            offCommands[slot] = offCommand;
         }
 
-        // This method must call the OnCommand.Execute() method of the slot provided
         public void OnButtonWasPushed(int slot)
         {
+            onCommands[slot].Execute();
+            commandHistory.Push(onCommands[slot]); // add command to history
+            // Push sends an item to the top of the stack
         }
 
-        // This method must call the OffCommand.Execute() method of the slot provided
         public void OffButtonWasPushed(int slot)
         {
+            offCommands[slot].Execute();
+            commandHistory.Push(offCommands[slot]); // add command to history
         }
-        // Overwritten ToString() to print out each slot and its corresponding command.
+
+        public void UndoButtonWasPushed()
+        {
+            if (commandHistory.Count > 0)
+            {
+                Command lastCommand = commandHistory.Pop(); // get last command
+                lastCommand.Undo();
+            }
+            else
+            {
+                Console.WriteLine("No previous commands");
+            }
+        }
+
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("\n----- Remote Control ----- \n");
-            for(int i = 0;i < onCommands.Length;i++)
+            sb.Append("\n----- Remote Control -----\n");
+            for (int i = 0; i < onCommands.Length; i++)
             {
-                sb.Append("[slot " + i + "] "+ onCommands[i] + " \t\t  " + offCommands[i] + "\n");
+                sb.Append($"[slot {i}] {onCommands[i].GetType().Name,-35} {offCommands[i].GetType().Name}\n");
             }
             return sb.ToString();
         }

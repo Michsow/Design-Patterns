@@ -27,9 +27,9 @@ namespace CommandPattern
             // Define and instantiate an Off and On command for each Vendor class
             remoteControl.SetCommand(1, new LightOnCommand(livingRoomLight), new LightOffCommand(livingRoomLight));
             remoteControl.SetCommand(2, new LightOnCommand(kitchenLight), new LightOffCommand(kitchenLight));
-            remoteControl.SetCommand(3, new CeilingFanHighCommand(LivingroomFan), new CeilingFanOffCommand(LivingroomFan));
+            remoteControl.SetCommand(3, new CeilingFanCycleCommand(LivingroomFan), new CeilingFanOffCommand(LivingroomFan));
             remoteControl.SetCommand(4, new GarageDoorUpCommand(garageDoor), new GarageDoorDownCommand(garageDoor));
-            remoteControl.SetCommand(5, new StereoOnWithCdCommand(stereo), new StereoOffCommand(stereo));
+            remoteControl.SetCommand(5, new StereoCycleCommands(stereo), new StereoOffCommand(stereo));
 
 
 
@@ -41,12 +41,9 @@ namespace CommandPattern
              * 4: Garage door
              * 5: Stereo
              */
-            
+
 
             Console.WriteLine(remoteControl);
-
-
-
 
             // Test the pressing of Buttons here. Don't forget to test the Undo button
             remoteControl.OnButtonWasPushed(1);
@@ -64,6 +61,36 @@ namespace CommandPattern
             remoteControl.OnButtonWasPushed(5);
             remoteControl.OffButtonWasPushed(5);
 
+            remoteControl.OnButtonWasPushed(2);
+            remoteControl.UndoButtonWasPushed();
+
+            remoteControl.OnButtonWasPushed(3);
+            remoteControl.OnButtonWasPushed(3);
+            remoteControl.OnButtonWasPushed(3);
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+
+            remoteControl.OnButtonWasPushed(5);
+            remoteControl.OnButtonWasPushed(5);
         }
     }
 }

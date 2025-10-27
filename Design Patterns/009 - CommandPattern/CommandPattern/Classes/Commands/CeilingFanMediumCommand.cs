@@ -19,6 +19,7 @@ namespace CommandPattern.Classes.Commands
         public void Execute()
         {
             prevSpeed = ceilingFan.GetSpeed();
+            ceilingFan.Medium();
             if (prevSpeed == ceilingFan.HIGH)
             {
                 ceilingFan.Low();

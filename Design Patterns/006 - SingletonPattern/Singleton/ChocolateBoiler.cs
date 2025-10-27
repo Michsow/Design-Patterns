@@ -11,7 +11,7 @@ namespace Singleton
         private bool empty;
         private bool boiled;
 
-        private volatile static ChocolateBoiler uniqueInstance;
+        private volatile static ChocolateBoiler? uniqueInstance;
         private static readonly object lockObject = new object();
 
         public static ChocolateBoiler getInstance()
@@ -30,7 +30,7 @@ namespace Singleton
         }
 
         // This code is only started when the boiler is empty
-        public ChocolateBoiler()
+        private ChocolateBoiler()
         {
             empty = true;
             boiled = false;
